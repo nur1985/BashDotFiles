@@ -155,4 +155,3 @@ echo -e "${msgcolor}${bold}	  '-..-'                Thank you!                  
 minerva_message2
 warning_message2
 
-
